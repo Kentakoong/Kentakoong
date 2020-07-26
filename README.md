@@ -15,4 +15,16 @@
   
    • 📺 Watch Youtube or Anime : I love watching people Make Music and Coding
   
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
+**Some of My Facts :**
+
+   • 🙊 I'm 14 Years old
+   • 🇹🇭 I'm in Thailand
+
+   ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
+
+### **My Social Media Pages :**
+
+   ![Apple Music Artist](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
+   ![Spotify Artist](https://open.spotify.com/artist/2gboSsr87dJNPzRukWbikO)
+   ![Apple Music](https://music.apple.com/profile/kentakoongmusic)
+   ![Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
