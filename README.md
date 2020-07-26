@@ -10,7 +10,7 @@
    
    • Producing Music : I love Producing Music it's my number one favorite back in the day! 
    
-   -  Here are the Links to my Music :
+   - Here are the Links to my Music :
 
    • [Apple Music](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
   
