@@ -9,10 +9,10 @@
 
 My Hobbies Are :
   
-   • Listening To Music (especially EDM and Future Bass)
+   • 🎵 Listening To Music (especially EDM and Future Bass)
    
-   • Producing Music : I love Producing Music it's my number one favorite back in the day!
+   • 🎚 Producing Music : I love Producing Music it's my number one favorite back in the day!
   
-   • Watch Youtube or Anime : I love watching people Make Music and Coding
+   • 📺 Watch Youtube or Anime : I love watching people Make Music and Coding
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
