@@ -24,7 +24,7 @@
 
 ### **My Social Media Pages :**
 
-   ![Apple Music Artist](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
-   ![Spotify Artist](https://open.spotify.com/artist/2gboSsr87dJNPzRukWbikO)
-   ![Apple Music](https://music.apple.com/profile/kentakoongmusic)
-   ![Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
+   [Apple Music Artist](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
+   [Spotify Artist](https://open.spotify.com/artist/2gboSsr87dJNPzRukWbikO)
+   [Apple Music](https://music.apple.com/profile/kentakoongmusic)
+   [Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
