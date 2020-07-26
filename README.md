@@ -1,4 +1,4 @@
-![Untitled-3](https://user-images.githubusercontent.com/35761701/88481536-33368600-cf86-11ea-996c-f4c887a30d04.jpg)
+![Untitled-4](https://user-images.githubusercontent.com/35761701/88481559-5b25e980-cf86-11ea-84b9-99517830b389.jpg)
 ### **Hello! Kenta Here.**
 
 **Welcome To My Github Profile!**
