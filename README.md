@@ -18,6 +18,7 @@
 **Some of My Facts :**
 
    • 🙊 I'm 14 Years old
+   
    • 🇹🇭 I'm in Thailand
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
