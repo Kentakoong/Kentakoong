@@ -3,14 +3,14 @@
 **Welcome To My Github Profile!**
   
   I'm a HTML Developer, Sometimes I code swift.
+
+My Hobbies Are :
   
-  My Hobbies Are :
-  
-   • Listening To Music (especially EDM and Future Bass)
+  • Listening To Music (especially EDM and Future Bass)
    
-   • Producing Music : I love Producing Music it's my number one favorite back in the day! 
+  • Producing Music : I love Producing Music it's my number one favorite back in the day! 
    
-   - Here are the Links to my Music :
+  - Here are the Links to my Music :
 
    • [Apple Music](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
   
