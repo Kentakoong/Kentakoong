@@ -9,9 +9,7 @@ My Hobbies Are :
   • Listening To Music (especially EDM and Future Bass)
    
   • Producing Music : I love Producing Music it's my number one favorite back in the day! 
-   
-  - Here are the Links to my Music :
-
-   • [Apple Music](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
+  
+  • Watch Youtube or Anime : I love watching people Make Music and Coding
   
   ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
