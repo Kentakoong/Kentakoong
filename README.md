@@ -1,4 +1,4 @@
-![Image](/images/apidev logo.jpg)
+![Image](apidev logo.jpg)
 ### **Hello! Kenta Here.**
 
 **Welcome To My Github Profile!**
