@@ -1,6 +1,6 @@
 # Hello! Kenta Here.
 
- ## Welcome To My Github Profile!
+Welcome To My Github Profile!
   
   I'm a HTML Developer, Sometimes I code swift and (python) 
   My Hobbies Are :
