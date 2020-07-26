@@ -31,3 +31,9 @@
    [Apple Music](https://music.apple.com/profile/kentakoongmusic)
    
    [Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
+   
+   [Instagram](https://www.instagram.com/kentakoong.dev/)
+   
+   [Facebook](https://www.facebook.com/wongkraiwich/)
+   
+   [Youtube](https://www.youtube.com/channel/UCCpHN10EC5kvVvqLiqNZT-g?)
