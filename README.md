@@ -1,4 +1,5 @@
-  # Hello! Kenta Here. 
+  # Hello! Kenta Here
+    ## Welcome To My Github Profile
   I'm a HTML Developer, Sometimes I code swift and (python) 
   My Hobbies Are :
     • Listening To Music (especially edm/dance styles)
