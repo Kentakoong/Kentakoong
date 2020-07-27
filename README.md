@@ -3,12 +3,14 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a HTML Developer, Sometimes I code swift.
+  - ✏️ I'm a Front-End Developer, Sometimes I code swift.
   
-  - 💻 Employee of Api Development
+  - 💻 Working as a **Front-End** developer at [Api Development]
 
 **My Hobbies Are :**
-  
+   
+   • ⌨️ Coding : Coding is the first priority for me right now. I had so fun programming (exept for bugs 😂) welp. HTML don't have bugs btw.
+   
    • 🎵 Listening To Music (especially EDM and Future Bass)
    
    • 🎚 Producing Music : I love Producing Music it's my number one favorite back in the day!
