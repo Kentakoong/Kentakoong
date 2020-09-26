@@ -6,7 +6,7 @@
   
   - 💻 Intern as a **Front-End** developer at [Api Development]
   
-  - 💻 Developing A Project **Realtime Health** at [Banana Development]
+  - 💻 Founder of [Banana Development]
 
 **My Hobbies Are :**
    
