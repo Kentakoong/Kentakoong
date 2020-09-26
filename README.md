@@ -4,7 +4,7 @@
   
   - ✏️ I'm a Front-End Developer, Sometimes I code swift.
   
-  - 💻 Working as a **Front-End** developer at [Api Development]
+  - 💻 Intern as a **Front-End** developer at [Api Development]
   
   - 💻 Developing A Project **Realtime Health** at [Banana Development]
 
