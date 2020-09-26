@@ -4,9 +4,9 @@
   
   - ✏️ I'm a Front-End Developer, Sometimes I code swift.
   
-  - 💻 Intern as a **Front-End** developer at [Api Development]
+  - 💻 **Founder** and **CEO** of [[Banana Development]](https://github.com/Banana-Development)
   
-  - 💻 Founder of [[Banana Development]](https://github.com/Banana-Development)
+  - 💻 Intern as a **Front-End** developer at [[Api Development]](https://github.com/api-development)
 
 **My Hobbies Are :**
    
