@@ -6,7 +6,7 @@
   
   - 💻 Intern as a **Front-End** developer at [Api Development]
   
-  - 💻 Founder of [Banana Development](https://github.com/Banana-Development)
+  - 💻 Founder of [[Banana Development]](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
