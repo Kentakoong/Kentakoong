@@ -10,7 +10,7 @@
 
 **My Hobbies Are :**
    
-   • ⌨️ Coding : Coding is the first priority for me right now. I had so fun programming (exept for bugs 😂) welp. HTML don't have bugs btw.
+   • ⌨️ Coding : Coding is the first priority for me right now. I had so fun programming (exept for bugs 😂) welp. HTML don't have bugs
    
    • 🎵 Listening To Music (especially EDM and Future Bass)
    
