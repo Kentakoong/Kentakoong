@@ -4,7 +4,7 @@
   
   - ✏️ I'm a Front-End Developer, Sometimes I code swift.
   
-  - 💻 **Founder** and **CEO** of [[Banana Development]](https://github.com/Banana-Development)
+  - 💻 **Co-Founder** and **CEO** of [[Banana Development]](https://github.com/Banana-Development)
 
 **My Hobbies Are :**
    
