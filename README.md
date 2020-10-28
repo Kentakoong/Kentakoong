@@ -21,6 +21,8 @@
    • 🤔 I'm 14 Years old
    
    • 🇹🇭 I'm in Thailand
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong)
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true)
 
