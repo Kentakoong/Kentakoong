@@ -22,7 +22,7 @@
    
    • 🇹🇭 I'm in Thailand
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact)
 
    ![My github stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true&theme=dark)
 
