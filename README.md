@@ -20,7 +20,7 @@
   
 **Some of My Facts :**
 
-   • 🤔 I'm 14 Years old
+   • 🤔 I'm 15 Years old
    
    • 🇹🇭 I'm in Thailand
    
