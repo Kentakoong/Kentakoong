@@ -30,9 +30,9 @@
 
 ### **My Social Media Pages :**
 
-   [Apple Music Artist](https://music.apple.com/th/artist/kentakoongmusic/1453679230)
+   [Apple Music Artist](https://music.apple.com/artist/kentakoong/1569962189)
    
-   [Spotify Artist](https://open.spotify.com/artist/2gboSsr87dJNPzRukWbikO)
+   [Spotify Artist](https://open.spotify.com/artist/3NmmyJOsHIbHK2hUtwnZy0?si=gbO83LnMSuGkKsQTSN3yOg&dl)
    
    [Apple Music](https://music.apple.com/profile/kentakoongmusic)
    
