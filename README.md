@@ -4,7 +4,7 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a Front-End Developer I mainly use JavaScript, HTML, and CSS. Sometimes I code Swift and Java.
+  - ✏️ I'm a Front-End Developer, mainly using JavaScript. Sometimes I code Swift and Java.
   
   - 💻 **Co-Founder** and **CEO** of [[InedibleBanana]](https://github.com/Banana-Development)
 
