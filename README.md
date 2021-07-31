@@ -28,7 +28,7 @@
 
    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true&theme=dark)
    
-   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kentakoong&theme=dark&layout=compact)
+   ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kentakoong&theme=dark&layout=compact)
 
 ### **My Social Media Pages :**
 
