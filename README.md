@@ -4,7 +4,7 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a Front-End Developer, mainly using JavaScript. Sometimes I code Swift and Java.
+  - ✏️ I'm a Front-End Developer, aspiring Full-Stack! I mainly using JavaScript. Sometimes I code Swift and Java.
   
   - 💻 **Co-Founder** and **CEO** of [[InedibleBanana]](https://github.com/Banana-Development)
 
@@ -12,13 +12,13 @@
 
 **My Hobbies Are :**
    
-   • ⌨️ Coding : Coding is my hobby and a thing that i enjoy right now. I had so fun programming (exept for bugs 😂)
+   • ⌨️ Coding : For me, programming is a passion for a long time now. It is real fun!
    
-   • 🎵 Listening To Music (especially EDM and Future Bass)
+   • 🎵 Music : I love listening to music. I am an aspiring audiophile ww.
    
    • 🎚 Producing Music : I love Producing Music it's my number one favorite back in the day!
   
-   • 📺 Watch Youtube or Anime : I love watching people Make Music and Coding
+   • 📺 Watch Youtube or Anime : I like to watch anime, and Vtubers😏. Also, many youtube videos about F1 or Rocket Science!
   
 **Some of My Facts :**
 
@@ -32,16 +32,10 @@
 
 ### **My Social Media Pages :**
 
-   [Apple Music Artist](https://music.apple.com/artist/kentakoong/1569962189)
-   
-   [Spotify Artist](https://open.spotify.com/artist/3NmmyJOsHIbHK2hUtwnZy0?si=gbO83LnMSuGkKsQTSN3yOg&dl)
-   
-   [Apple Music](https://music.apple.com/profile/kentakoongmusic)
+   [Apple Music](https://music.apple.com/profile/kentakoong)
    
    [Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
    
    [Instagram](https://www.instagram.com/kentakoong.dev/)
-   
-   [Facebook](https://www.facebook.com/wongkraiwich/)
    
    [Youtube](https://www.youtube.com/channel/UCCpHN10EC5kvVvqLiqNZT-g?)
