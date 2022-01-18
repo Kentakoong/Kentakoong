@@ -1,4 +1,4 @@
-![inedible-banner](https://user-images.githubusercontent.com/35761701/149980019-fb36c5d4-b95f-4f7a-ac3c-14a167035aa7.png)
+![inedible-banner](https://user-images.githubusercontent.com/35761701/149980229-2a94787c-859f-46a4-b748-e4b62b02acb6.png)
 
 ### **Hello! Kenta Here.**
 
@@ -6,7 +6,7 @@
   
   - ✏️ I'm a Front-End Developer, aspiring Full-Stack! I mainly using JavaScript. Sometimes I code Swift and Java.
   
-  - 💻 **Co-Founder** and **CEO** of [[InedibleBanana]](https://github.com/Banana-Development)
+  - 💻 **Co-Founder** and **CEO** of [[inedible.dev]](https://github.com/Banana-Development)
 
   - 💻 **Web Developer** for [[Api Development]](https://github.com/api-development)
 
