@@ -1,4 +1,4 @@
-![bananabanner](https://user-images.githubusercontent.com/35761701/105824515-0b85b080-5ff1-11eb-976b-98a76e9c593a.png)
+![inedible-banner](https://user-images.githubusercontent.com/35761701/149980019-fb36c5d4-b95f-4f7a-ac3c-14a167035aa7.png)
 
 ### **Hello! Kenta Here.**
 
