@@ -10,7 +10,7 @@
 
   - 💻 **Web Developer** for [[API Development]](https://github.com/api-development)
 
-  - 💼 **For Work** contact me at [My Work Mail](mailto:wongkraiwich@inedible.dev?subject=[Contact From Github : ]%20Source%20Han%20Sans)
+  - 💼 **For Work** contact me at [My Work Mail](wongkraiwich@inedible.dev)
 
 **My Hobbies Are :**
    
