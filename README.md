@@ -8,7 +8,7 @@
   
   - 💻 **Co-Founder** and **CEO** of [[inedible.dev]](https://github.com/Banana-Development)
 
-  - 💻 **Web Developer** for [[Api Development]](https://github.com/api-development)
+  - 💻 **Web Developer** for [[API Development]](https://github.com/api-development)
 
 **My Hobbies Are :**
    
