@@ -10,7 +10,7 @@
 
   - 💻 **Web Developer** for [[API Development]](https://github.com/api-development)
 
-  - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From GitHub)
+  - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From-GitHub)
 
 **My Hobbies Are :**
    
