@@ -28,7 +28,7 @@
    
    • 🇹🇭 I'm in Thailand
    
-   ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kentakoong&theme=dark&layout=compact)
+   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kentakoong&theme=dark&layout=compact)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact)
 
