@@ -8,7 +8,9 @@
   
   - 💻 **Co-Founder** and **CEO** of [[inedible.dev]](https://github.com/Banana-Development)
 
-  - 💻 **Web Developer** for [[API Development]](https://github.com/api-development)
+  - 💻 **Senior Web Engineer** for [[API Development]](https://github.com/api-development)
+
+  - 💻 **Senior Web Engineer** for [[OpenMirai]](https://github.com/kyoiku)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)
 
