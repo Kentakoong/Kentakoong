@@ -8,7 +8,7 @@
   
   - 💻 **Co-Founder** and **CEO** of [inedible.dev](https://github.com/Banana-Development)
 
-  - 💻 **Vice President** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/kyoiku)
+  - 💻 **Vice President** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)
 
