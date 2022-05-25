@@ -4,7 +4,11 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a Front-End Developer, aspiring Full-Stack! I mainly use ~~JavaScript~~ TypeScript🤣. Sometimes I code Swift and Java.
+  - ✏️ I'm a Front-End Developer, aspiring Full-Stack! I mainly use ~~JavaScript~~ TypeScript🤣. Sometimes I code Java.
+
+  - 📱 I code Swift/SwiftUI, WWDC22 Swift Student Challenge Winner. Still practicing it! I love OOP😏
+
+  - 💾 I like creating bash codes, it helps me with dev times.
   
   - 💻 **Co-Founder** and **CEO** of [inedible.dev](https://github.com/inedible-dev)
 
