@@ -40,8 +40,6 @@
 
 ### **My Social Media Pages :**
 
-   [Apple Music](https://music.apple.com/profile/kentakoong)
-   
    [Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
    
    [Instagram](https://www.instagram.com/kentakoong.dev/)
