@@ -10,9 +10,9 @@
 
   - 💾 I like creating bash codes, it helps me with dev times.
   
-  - 💻 **Co-Founder** and **CEO** of [inedible.dev](https://github.com/inedible-dev)
+  - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
 
-  - 💻 **Vice President** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
+  - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)
 
