@@ -18,13 +18,13 @@
 
 **My Hobbies Are :**
    
-   • ⌨️ Coding : For me, programming is a passion for a long time now. It is real fun!
+   • ⌨️ Coding : I like to code some fun little projects. You could check it out on my repository!
    
    • 🎵 Music : I love listening to music. I am an aspiring audiophile ww.
    
-   • 🎚 Producing Music : I love Producing Music it's my number one favorite back in the day!
+   • 🎚 Producing Music : I produce music, and mix some songs on my free time!
   
-   • 📺 Watch Youtube or Anime : I like to watch anime, and Vtubers😏. Also, many youtube videos about F1 or Rocket Science!
+   • 📺 Watch Youtube or Anime : I like to watch anime, and vtubers☄️. Also, many F1 and Rocket Science, or physics in general!
   
 **Some of My Facts :**
 
