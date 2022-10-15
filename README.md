@@ -4,36 +4,33 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a Front-End Developer, aspiring Full-Stack! I mainly use ~~JavaScript~~ TypeScript🤣. Sometimes I code Java.
+  - ✏️ I'm a Front-End Developer, an aspiring Full-Stack(is it real?). I mainly use ~~JavaScript~~ TypeScript🤣.
 
-  - 📱 I code SwiftUI/UIKit(sometimes), WWDC22 Swift Student Challenge Winner. Still practicing it! I love OOP😏
+  - 📱 I code SwiftUI/UIKit(sometimes), I create fun SwiftUI Projects on my free time! I love OOP😉
 
   - 💾 I like creating bash codes, it helps me with dev times.
+
+  - ⌨️ A **WWDC22** Swift Student Challenge Winner!
   
   - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
 
   - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
 
-  - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)
+  - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
 
 **My Hobbies Are :**
    
-   • ⌨️ Coding : I like to code some fun little projects. You could check it out on my repository!
+   • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
    
    • 🎵 Music : I love listening to music. I am quite an aspiring audiophile😎.
    
-   • 🎚 Producing Music : I produce music, and mix some songs on my free time!
+   • 🎚 Producing Music : I produce music, and mix some songs on my free time📼!
   
-   • 📺 Watch Youtube or Anime : I like to watch anime, and vtubers☄️. Also, many F1 and Rocket Science, or physics in general!
-  
-**Some of My Facts :**
-
-   • 🤔 I'm 16 Years old
-   
-   • 🇹🇭 I'm in Thailand
-   
-   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=Kentakoong" height="150" alt="ghstats"  />
-   
-   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kentakoong&theme=dark&layout=compact)
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact)
+   • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
+ 
+<br/>
+<h2 align="center"></h2>
+<h3 align="center">Coding Statistics!</h3>
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong" height="150" alt="ghstats"  />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact&langs_count=4&disable_animations=false&hide_border=true&custom_title=Public&nbsp;Repos&nbsp;Used&nbsp;Languages" height="150" alt="toplang"  />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kentakoong&layout=compact&theme=dark&disable_animations=false&langs_count=8&hide_border=true" width="590" alt="wkstats"  /></div>
