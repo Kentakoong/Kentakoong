@@ -20,7 +20,7 @@
    
    • ⌨️ Coding : I like to code some fun little projects. You could check it out on my repository!
    
-   • 🎵 Music : I love listening to music. I am an aspiring audiophile ww.
+   • 🎵 Music : I love listening to music. I am quite an aspiring audiophile😎.
    
    • 🎚 Producing Music : I produce music, and mix some songs on my free time!
   
@@ -32,16 +32,8 @@
    
    • 🇹🇭 I'm in Thailand
    
+   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=Kentakoong" height="150" alt="ghstats"  />
+   
    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kentakoong&theme=dark&layout=compact)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact)
-
-   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kentakoong&show_icons=true&theme=dark)
-
-### **My Social Media Pages :**
-
-   [Spotify](https://open.spotify.com/user/p29djf3vdm1imjb0npl765dyo)
-   
-   [Instagram](https://www.instagram.com/kentakoong.dev/)
-   
-   [Youtube](https://www.youtube.com/channel/UCCpHN10EC5kvVvqLiqNZT-g?)
