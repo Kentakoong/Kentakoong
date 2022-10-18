@@ -18,7 +18,7 @@
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
 
-**My Hobbies Are :**
+**My Hobbies:**
    
    • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
    
