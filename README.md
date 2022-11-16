@@ -22,7 +22,7 @@
    
    • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
    
-   • 🎵 Music : I love listening to music. I am quite an aspiring audiophile😎.
+   • 🎵 Music : I love listening to music. I am quite an aspiring audiophile😎. check out my beats [here](https://soundcloud.com/kentakoong)!
    
    • 🎚 Producing Music : I produce music, and mix some songs on my free time📼!
   
