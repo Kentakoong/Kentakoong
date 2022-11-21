@@ -27,7 +27,9 @@
    • 🎚 Producing Music : I produce music, and mix some songs on my free time📼!
   
    • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
- 
+   
+
+### **☕️ Buy me some coffee [here](ko-fi.com/kentakoong). I would highly appreciate it!**
 <br/>
 <h2 align="center"></h2>
 <h3 align="center">Coding Statistics!</h3>
