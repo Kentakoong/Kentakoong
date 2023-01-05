@@ -18,6 +18,12 @@
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
 
+**Some Bio:**
+   
+   • 📅 I'm 16 Years old.
+   
+   • 🎓 Studying in Grade 11
+
 **My Hobbies:**
    
    • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
@@ -28,14 +34,8 @@
   
    • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
    
-**Some Bio:**
-   
-   • 📅 I'm 16 Years old.
-   
-   • 🎓 Studying in Grade 11
-   
-
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I would highly appreciate it!**
+   
 <br/>
 <h2 align="center"></h2>
 <h3 align="center">Coding Statistics!</h3>
