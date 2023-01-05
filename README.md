@@ -28,6 +28,12 @@
   
    • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
    
+**Some Bio:**
+   
+   • 📅 I'm 16 Years old.
+   
+   • 🎓 Studying in Grade 11
+   
 
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I would highly appreciate it!**
 <br/>
