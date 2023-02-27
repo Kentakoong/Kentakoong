@@ -12,11 +12,11 @@
 
   - ⌨️ A **WWDC22** Swift Student Challenge Winner!
   
-  - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
+<!--   - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
 
   - 💻 **Co-Founder** of [STELLAR](https://stellardata.co)
 
-  - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
+  - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai) -->
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
 
