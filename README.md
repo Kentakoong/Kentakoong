@@ -22,7 +22,7 @@
 
 **Some Bio:**
    
-   • 📅 I'm 16 Years old.
+   • 📅 I'm 17 Years old.
    
    • 🎓 Studying in Grade 11
 
