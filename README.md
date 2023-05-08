@@ -24,7 +24,7 @@
    
    • 📅 I'm 17 Years old.
    
-   • 🎓 Studying in Grade 11
+   • 🎓 Studying in Grade 12
 
 **My Hobbies:**
    
