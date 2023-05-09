@@ -10,7 +10,7 @@
 
   - 💾 I like creating bash codes, it helps me with dev times.
 
-  - ⌨️ A **WWDC22** Swift Student Challenge Winner!
+  - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner!
   
   - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
 
