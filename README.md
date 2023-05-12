@@ -36,7 +36,7 @@
   
    • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
    
-### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I would highly appreciate it!**
+### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I mean, who wouldn't like a cup of Starbucks Latte everyday?**
    
 <br/>
 <h2 align="center"></h2>
