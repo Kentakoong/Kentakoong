@@ -6,7 +6,7 @@
   
   - ✏️ I'm a Front-End Developer, an aspiring Full-Stack(is it real?). I mainly use ~~JavaScript~~ TypeScript🤣.
 
-  - 📱 I code SwiftUI/UIKit(sometimes), I create fun SwiftUI Projects on my free time! I love OOP😉
+  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! I love OOP😉
 
   - 💾 I like creating bash codes, it helps me with dev times.
 
