@@ -12,7 +12,7 @@
 
   - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner!
   
-  - 💻 **Co-Founder** of [inedible.dev](https://github.com/inedible-dev)
+  - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
 
 <!--     - 💻 **Co-Founder** of [STELLAR](https://stellardata.co)
 
