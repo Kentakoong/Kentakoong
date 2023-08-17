@@ -10,6 +10,8 @@
 
   - 💾 I like creating bash codes, it helps me with dev times.
 
+  - 🎧 Big time Audiophile, collecting audio gears and blending software and music together!
+
   - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner!
   
   - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
@@ -26,7 +28,7 @@
    
    • 🎓 Studying in Grade 12
 
-**My Hobbies:**
+<!--**My Hobbies:**
    
    • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
    
@@ -35,7 +37,19 @@
    • 🎚 Producing Music : I produce music, and mix some songs on my free time📼!
   
    • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
-   
+    -->
+
+  **Audio Gears:**<br/>
+  *For audiophiles, here's my current setup*
+   - 🖥️ Desktop Setup
+     - Solid State Logic SSL2
+     - Beyerdynamic DT990 Pro(250OHMS)
+   - 👂🏼 IEMs
+     - Dunu Titan S
+   - 🎧 To-go/Everyday use
+     - Airpods Pro 2
+  
+    
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I mean, who wouldn't like a cup of Starbucks Latte everyday?**
    
 <br/>
