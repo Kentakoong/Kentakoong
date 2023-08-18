@@ -43,11 +43,11 @@
   *For audiophiles, here's my current setup*
    - 🖥️ Desktop Setup
      - Solid State Logic SSL2
-     - Beyerdynamic DT990 Pro(250OHMS)
+     - Beyerdynamic DT990 Pro(250OHM)
    - 👂🏼 IEMs
      - Dunu Titan S
    - 🎧 To-go/Everyday use
-     - Airpods Pro 2
+     - AirPods Pro 2
   
     
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I mean, who wouldn't like a cup of Starbucks Latte everyday?**
