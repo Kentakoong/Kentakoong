@@ -47,7 +47,7 @@
    - 👂🏼 IEMs
      - Dunu Titan S
    - 🎧 To-go/Everyday use
-     - AirPods Pro 2
+     - AirPods Pro 2 (left buds RIP)
   
     
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I mean, who wouldn't like a cup of Starbucks Latte everyday?**
