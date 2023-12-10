@@ -45,7 +45,7 @@
      - Solid State Logic SSL2
      - Beyerdynamic DT990 Pro(250OHM)
    - 👂🏼 IEMs
-     - Dunu Titan S
+     - Dunu Titan S (Final Audio Type E Equipped)
    - 🎧 To-go/Everyday use
      - AirPods Pro 2 (left buds RIP)
   
