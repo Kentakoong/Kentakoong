@@ -6,9 +6,9 @@
   
   - ✏️ I'm a Front-End Developer, an aspiring Full-Stack(is it real?). I mainly use ~~JavaScript~~ TypeScript🤣.
 
-  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! I love OOP😉
+  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! (also check out [MusicBar](https://github.com/kentakoong/musicbar)
 
-  - 💾 I like creating bash codes, it helps me with dev times.
+  - 💾 Creating bash codes is my hobby, a home server enjoyer.
 
   - 🎧 Big time Audiophile, collecting audio gears and blending software and music together!
 
@@ -16,8 +16,8 @@
   
   - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
 
-<!--     - 💻 **Co-Founder** of [STELLAR](https://stellardata.co)
--->
+<!--     - 💻 **Co-Founder** of [STELLAR](https://stellardata.co)-->
+
   - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
@@ -27,17 +27,6 @@
    • 📅 I'm 17 Years old.
    
    • 🎓 Studying in Grade 12
-
-<!--**My Hobbies:**
-   
-   • ⌨️ Coding : I like to code some fun little projects. You could check it out on my [repositories page](https://github.com/Kentakoong?tab=repositories)!
-   
-   • 🎵 Music : I love listening to music. I am quite an aspiring audiophile😎. check out my beats [here](https://soundcloud.com/kentakoong)!
-   
-   • 🎚 Producing Music : I produce music, and mix some songs on my free time📼!
-  
-   • 📺 Watch Videos : I like to watch Anime😗  |  VTubers☄️  |  F1🏎️  |  Rocket Science🚀
-    -->
 
   **Audio Gears:**<br/>
   *For audiophiles, here's my current setup*
