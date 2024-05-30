@@ -24,9 +24,9 @@
 
 **Some Bio:**
    
-   • 📅 I'm 17 Years old.
+   • 📅 I'm 18 Years old.
    
-   • 🎓 Studying in Grade 12
+   • 🎓 Graduated High School. Loading University.....
 
   **Audio Gears:**<br/>
   *For audiophiles, here's my current setup*
