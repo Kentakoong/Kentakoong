@@ -1,6 +1,6 @@
 <!--![ibframe](https://user-images.githubusercontent.com/35761701/163727732-0dff1d22-3eb8-4a59-a504-c5b70d784ada.png) -->
 
-### **Hello! Kenta Here.**
+### **Hello! I'm Kenta**
 
 **Welcome To My Github Profile!**
   
