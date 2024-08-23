@@ -4,7 +4,9 @@
 
 **Welcome To My Github Profile!**
   
-  - ✏️ I'm a Front-End Developer, an aspiring Full-Stack(is it real?). I mainly use ~~JavaScript~~ TypeScript🤣.
+  - 🧑‍💻 Apprenticeship - HPC-AI Specialist @ [ThaiSC](https://thaisc.io)
+
+  - ✏️ I'm a Front-End Developer, using Next.js as my backbone.
 
   - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! (also check out [MusicBar](https://github.com/kentakoong/musicbar)
 
