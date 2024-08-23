@@ -16,8 +16,6 @@
   
   - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
 
-<!--     - 💻 **Co-Founder** of [STELLAR](https://stellardata.co)-->
-
   - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
@@ -26,7 +24,7 @@
    
    • 📅 I'm 18 Years old.
    
-   • 🎓 Graduated High School. Loading University.....
+   • 🎓 Bachelor of Computer Enginnering and Digital Technology @ Chulalongkorn University
 
   **Audio Gears:**<br/>
   *For audiophiles, here's my current setup*
@@ -36,9 +34,8 @@
    - 👂🏼 IEMs
      - Dunu Titan S (Final Audio Type E Equipped)
    - 🎧 To-go/Everyday use
-     - AirPods Pro 2 (left buds RIP)
-  
-    
+     - AirPods Pro 2 rev.2
+
 ### **☕️ Buy me some coffee [here](https://ko-fi.com/kentakoong). I mean, who wouldn't like a cup of Starbucks Latte everyday?**
    
 <br/>
