@@ -6,7 +6,7 @@
 
   - ✏️ I'm a Front-End Developer, using Next.js as my backbone.
 
-  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! (also check out [MusicBar](https://github.com/kentakoong/musicbar)
+  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! (also check out [MusicBar](https://github.com/kentakoong/musicbar))
 
   - 💾 Creating bash codes is my hobby, a home server enjoyer.
 
