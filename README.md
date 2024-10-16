@@ -3,8 +3,6 @@
 ### **Hello! I'm Kenta**
 
 **Welcome To My Github Profile!**
-  
-  - 🧑‍💻 Apprenticeship - HPC-AI Specialist @ [ThaiSC](https://thaisc.io)
 
   - ✏️ I'm a Front-End Developer, using Next.js as my backbone.
 
