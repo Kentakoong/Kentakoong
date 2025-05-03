@@ -22,7 +22,7 @@
 
 **Some Bio:**
    
-   • 📅 I'm 18 Years old.
+   • 📅 I'm 19 Years old.
    
    • 🎓 Bachelor of Computer Engineering and Digital Technology🥐 @ Chulalongkorn University
 
