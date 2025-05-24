@@ -45,6 +45,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong" height="150" alt="ghstats"  />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact&langs_count=4&disable_animations=false&hide_border=true&custom_title=Public&nbsp;Repos&nbsp;Used&nbsp;Languages" height="150" alt="toplang"  />
 </div>
+<br/>
 
 <!--START_SECTION:waka-->
 
