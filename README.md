@@ -1,7 +1,7 @@
 <!--![ibframe](https://user-images.githubusercontent.com/35761701/163727732-0dff1d22-3eb8-4a59-a504-c5b70d784ada.png) -->
 
 # **Hello! I'm Kenta**
-[![committers.top badge](https://user-badge.committers.top/thailand_public/Kentakoong.svg)](https://user-badge.committers.top/thailand_public/Kentakoong)
+[![committers.top badge](https://user-badge.committers.top/thailand_public/Kentakoong.svg)](https://user-badge.committers.top/thailand_public/Kentakoong)[![committers.top badge](https://user-badge.committers.top/thailand_private/Kentakoong.svg)](https://user-badge.committers.top/thailand_private/Kentakoong)
 
 **Welcome To My Github Profile!**
 
@@ -42,6 +42,7 @@
 <br/>
 <h2 align="center"></h2>
 <h3 align="center">Coding Stats!</h3>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong" height="150" alt="ghstats"  />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakoong&theme=dark&layout=compact&langs_count=4&disable_animations=false&hide_border=true&custom_title=Public&nbsp;Repos&nbsp;Used&nbsp;Languages" height="150" alt="toplang"  />
