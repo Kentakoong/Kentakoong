@@ -5,21 +5,21 @@
 
 **Welcome To My Github Profile!**
 
-  - ✏️ I'm a Front-End Developer, using Next.js as my backbone.
+  - ✏️ I'm a Full-stack Web Developer, using Next.js/Vite(React)/Go as my tool of choice.
 
-  - 📱 I code SwiftUI/UIKit(sometimes), I create fun Projects on my free time! (also check out [MusicBar](https://github.com/kentakoong/musicbar))
+  - 📱 I also code Swift, creating fun Projects on my free time.
 
   - 💾 Creating bash codes is my hobby, a home server enjoyer.
 
-  - 🎧 Big time Audiophile, collecting audio gears and blending software and music together!
+  - 🎧​ Quite an Audiophile, collecting audio gears and blending software and music together.
 
-  - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner!
+  - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner.
   
   - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
 
-  - 💻 **SVP** at [API Development](https://github.com/api-development) & [OpenMirai](https://github.com/openmirai)
+  - 💻 **SVP of Research & Development** at [OpenMirai](https://github.com/openmirai)
 
-  - 💼 **For Work** contact me [here](mailto:wongkraiwich@inedible.dev?subject=From%20GitHub)!
+  - 💼 **For Work** contact me [here](mailto:wongkraiwich@openmirai.com?subject=From%20GitHub)!
 
 **Some Bio:**
    
@@ -31,9 +31,10 @@
   *For audiophiles, here's my current setup*
    - 🖥️ Desktop Setup
      - Solid State Logic SSL2
-     - Beyerdynamic DT990 Pro(250OHM)
+     - Beyerdynamic DT990 Pro
+     - Focal Alpha 65
    - 👂🏼 IEMs
-     - Dunu Titan S (Final Audio Type E Equipped)
+     - Dunu Titan S, custom eartips and cables
    - 🎧 To-go/Everyday use
      - AirPods Pro 2 rev.2
 
