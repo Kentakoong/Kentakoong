@@ -25,7 +25,7 @@
    
    • 📅 I'm 19 Years old.
    
-   • 🎓 Bachelor of Computer Engineering and Digital Technology🥐 @ Chulalongkorn University
+   • 🎓 Bachelor of [Computer Engineering and Digital Technology](https://github.com/CEDT-Chula)🥐 @ Chulalongkorn University
 
   **Audio Gears:**<br/>
   *For audiophiles, here's my current setup*
