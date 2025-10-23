@@ -5,7 +5,7 @@
 
 **Welcome To My Github Profile!**
 
-  - ✏️ I'm a Full-stack Web Developer, using Next.js/Vite(React)/Go as my tool of choice.
+  - 🌐 I'm a Full-stack Web Developer, using Next.js/Vite(React)/Go as my tool of choice.
 
   - 📱 I also code Swift, creating fun Projects on my free time.
 
