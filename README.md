@@ -15,9 +15,9 @@
 
   - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner.
   
-  - 💻 **Co-Founder** of [inedible](https://github.com/inedible-dev)
+  - 💻 **Co-Founder** of [inedible🍌](https://github.com/inedible-dev)
 
-  - 💻 **SVP of Research & Development** at [OpenMirai](https://github.com/openmirai)
+  - 💻 **SVP of Research & Development** at [OpenMirai🌿](https://github.com/openmirai)
 
   - 💼 **For Work** contact me [here](mailto:wongkraiwich@openmirai.com?subject=From%20GitHub)!
 
