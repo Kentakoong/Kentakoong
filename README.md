@@ -43,6 +43,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 28 hrs 39 mins
+
 TypeScript    17 hrs 44 mins  ███████████████▒░░░░░░░░░   61.18 %
 YAML          3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
 Python        1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
