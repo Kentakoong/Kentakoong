@@ -9,9 +9,7 @@
 
   - 📱 I also code Swift, creating fun Projects on my free time.
 
-  - 💾 Creating bash codes is my hobby, a home server enjoyer.
-
-  - 🎧​ Quite an Audiophile, collecting audio gears and blending software and music together.
+  - 🎧​ Probably an Audiophile, collecting audio gears and blending software and music together.
 
   - ⌨️ A **WWDC 2022 & 2023** Swift Student Challenge Winner.
   
