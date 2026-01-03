@@ -17,8 +17,6 @@
 
   - 💻 **SVP of Research & Development** at [OpenMirai🌿](https://github.com/openmirai)
 
-  - 💼 **For Work** contact me [here](mailto:wongkraiwich@openmirai.com?subject=From%20GitHub)!
-
 **Some Bio:**
    
    • 📅 I'm 19 Years old.
@@ -28,11 +26,11 @@
   **Audio Gears:**<br/>
   *For audiophiles, here's my current setup*
    - 🖥️ Desktop Setup
-     - Solid State Logic SSL2
-     - Beyerdynamic DT990 Pro
-     - Focal Alpha 65
+     - Solid State Logic SSL 2
+     - Beyerdynamic DT 990 Pro
+     - Focal Alpha 65 Evo
    - 👂🏼 IEMs
-     - Dunu Titan S, custom eartips and cables
+     - Dunu Titan S, Tripowin Cables, Final Audio Type E Eartips
    - 🎧 To-go/Everyday use
      - AirPods Pro 2 rev.2
 
